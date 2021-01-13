@@ -33,7 +33,7 @@ $hewan->berinama(" singa ");
 $hewan->berinamateman(" singa ");
 
 // menampilkan isi property
-echo "hewan Yang Saya Miliki Adalah : " .$buah->buah_saya . "<br/>" ;
-echo " hewan Yang Teman Saya Miliki Adalah : " .$buah->buah_teman;
+echo "hewan Yang Saya Miliki Adalah :"  .$hewan->hewan_saya . " <br/>" ;
+echo " hewan Yang Teman Saya Miliki Adalah : " .$hewan->hewan_teman;
 
 ?>
